@@ -1,0 +1,11 @@
+{
+  "name": "cornfeedhobo-hiera_profyles",
+  "version": "0.1.0",
+  "author": "cornfeedhobo",
+  "summary": "Hiera based profiles built an the YAML backend",
+  "license": "Apache 2.0",
+  "source": "https://github.com/cornfeedhobo/hiera_profyles",
+  "issues_url": "https://github.com/cornfeedhobo/hiera_profyles/issues",
+  "project_page": "https://github.com/cornfeedhobo/hiera_profyles",
+  "dependencies": []
+}
